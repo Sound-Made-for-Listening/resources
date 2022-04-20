@@ -7,12 +7,8 @@
         "id": "8278793ce20bd640",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +84,7 @@
   },
   "active": "8278793ce20bd640",
   "lastOpenFiles": [
+    "Untitled.md",
     "README.md",
     "Visual Art/Tools.md",
     "Stores/Instruments.md",
@@ -97,7 +93,6 @@
     "Visual Art/Shaders.md",
     "Music/Tools.md",
     "Music/DAWs.md",
-    "Music/Plugins/Ableton Live.md",
-    "Music/Plugins/Plugins.md"
+    "Music/Plugins/Ableton Live.md"
   ]
 }
