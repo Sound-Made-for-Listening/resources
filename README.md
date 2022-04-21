@@ -4,15 +4,15 @@ This is a list of recommended resources for the Sound Made for Listening communi
 *Note: This is a brand new list. It is woefully incomplete at present. Additionally, some of the items in this list have descriptions attached to them. Others don't. The plan is to add descriptions to all of them at some point.*
 
 ### Music
-* [[DAWs]]
-* [[Plugins]]
-* [[Music/Livecoding]]
-* [[Music/Tools]]
+* [DAWs](Music/DAWs.md)
+* [Plugins](Music/Plugins.md)
+* [Livecoding](Music/Livecoding.md)
+* [Tools](Music/Tools.md)
 
 ### Visual art
-* [[Shaders]]
-* [[Visual Art/Livecoding]]
-* [[Visual Art/Tools]]
+* [Shaders](Visual%20Art/Shaders.md)
+* [Livecoding](Visual%20Art/Livecoding.md)
+* [Visual Art/Tools](Visual%20Art/Tools.md)
 
 ### Stores
-* [[Instruments]]
+* [Instruments](Stores/Instruments.md)
