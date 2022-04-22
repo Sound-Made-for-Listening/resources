@@ -8,6 +8,9 @@ This is a list of recommended resources for the Sound Made for Listening communi
 ### Music
 * [DAWs](Music/DAWs.md)
 * [Plugins](Music/Plugins.md)
+	* [Ableton Live](Music/Plugins/Ableton%20Live.md)
+	* [Reaper](Music/Plugins/Reaper.md)
+	* [VST](Music/Plugins/VST.md)
 * [Standalone](Music/Standalone.md)
 * [Livecoding](Music/Livecoding.md)
 * [DSP Programming](Music/DSP%20Programming.md)
