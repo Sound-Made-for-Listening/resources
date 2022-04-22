@@ -6,5 +6,5 @@ A list of visual art programs utilizing shaders recommended by the Sound Made fo
 * [Pilka](https://github.com/pudnax/pilka) - a newer livecoding shader tool made in Rust. Powered by Vulkan and WGPU.
 * [SHADERed](https://shadered.org/) - a complete shader IDE.
 
-# Paid
+### Paid
 * [KodeLife](https://hexler.net/kodelife) - seems to have a generous free trial on PC.
