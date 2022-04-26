@@ -3,3 +3,4 @@ A list of audio livecoding systems recommended by the Sound Made for Listening c
 
 ### Free
 * [SuperCollider](https://supercollider.github.io/) (SCLang)
+* [Incudine](http://incudine.sourceforge.net/) (Common Lisp)
