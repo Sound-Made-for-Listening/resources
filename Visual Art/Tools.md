@@ -9,4 +9,4 @@ A list of tools for visual art that don't fit into the other categories that are
 
 ### Paid
 * [OsciStudio](https://oscilloscopemusic.com/oscistudio.php) - make videos for music using 3D models and a digital oscilloscope.
-* [VS](https://www.imaginando.pt/products/vs-visual-synthesizer) - a standalone and VST visual synthesizer.
+* [VS](https://www.imaginando.pt/products/vs-visual-synthesizer) - a standalone and VST visual synthesizer. Supports custom shaders, which can be written using the built-in shader editor or loaded from .frag files.
