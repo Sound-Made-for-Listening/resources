@@ -6,4 +6,5 @@ A list of DAWs that are recommended by the Sound Made for Listening community.
 
 ### Paid
 * [Ableton Live](https://www.ableton.com/en/live/) - known for its Session View and live looping capabilities. Cycling '74 Max is built into it, allowing you to create patches and devices that run directly in Live.
-* [Renoise](https://www.renoise.com/) - probably the most advanced tracker-oriented DAW available at present.
+* [Bitwig] - resembles Ableton Live in many ways. Known for The Grid, a built-in modular environment that allows you to create custom instruments and effects. Offers a Linux version.
+* [Renoise](https://www.renoise.com/) - probably the most advanced tracker-oriented DAW available at present. Offers a Linux version.
